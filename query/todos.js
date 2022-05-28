@@ -1,0 +1,1 @@
+exports.CREATE_TODO = "INSERT INTO `todos` (`t_id`, `title`, `description`, `s_id`) VALUES (NULL , ? );";
